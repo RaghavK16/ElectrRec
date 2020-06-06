@@ -8,6 +8,7 @@
       rel="stylesheet"
       href="https://cdn.jsdelivr.net/npm/bulma@0.8.0/css/bulma.min.css"
     />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
     <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
     <link rel="stylesheet" href="index.css" />
     <script defer src="render.js"></script>
@@ -16,7 +17,7 @@
   <body class="content">
 
     <h1 id="heading"><i class="fa fa-laptop"></i>ElectrRec: Screen Recorder</h1>
-    <p>
+    <p id="subhead">
       A minimalistic and light-weight screen-recorder built on Electron
     </p>
 
@@ -30,6 +31,14 @@
     <button id="videoSelectBtn" class="button is-text">
       Choose a Video Source
     </button>
+
+    <footer class="text-center text-white">
+      <div class="container">
+          <span>
+              &copy; 2020 | Raghav Khullar | Open-Sourced on <i class="fa fa-github" aria-hidden="true"></i> <a href="">GitHub</a>
+          </span>
+      </div>
+    </footer>
 
   </body>
 </html>
