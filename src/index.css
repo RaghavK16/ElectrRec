@@ -2,11 +2,15 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   padding: 0;
   margin: 0;
-  background: rgb(109, 139, 148);
+  background: rgb(51, 54, 54);
 }
 
 #heading {
-  color: rgb(22, 34, 73);
+  color: rgb(60, 93, 201);
+}
+#subhead{
+  color: blueviolet;
+  font-weight: bold;
 }
 
 video {
