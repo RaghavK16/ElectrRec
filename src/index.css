@@ -13,6 +13,11 @@ body {
   font-weight: bold;
 }
 
+#videoSelectBtn{
+  font-size: larger;
+  color: rgb(201, 37, 37);
+}
+
 video {
   width: 100%;
   height: auto;
