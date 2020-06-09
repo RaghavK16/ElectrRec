@@ -8,6 +8,7 @@ body {
 
 #heading {
   color: rgb(60, 93, 201);
+  font-size: 52px;
 }
 #subhead{
   color: blueviolet;
@@ -18,6 +19,10 @@ body {
   font-size: larger;
   font-weight: bolder;
   color: rgb(121, 30, 109);
+}
+
+.heart{
+  color: rgb(223, 0, 0);
 }
 
 video {
