@@ -10,12 +10,11 @@ If you have a more recent version of npm or yarn, you can use npx, or yarn creat
 ```
 npx create-electron-app my-new-app
 ```
-# or
+or
 ```
 yarn create electron-app my-new-app
 ```
-
-# then
+then
 ```
 cd my-new-app
 ```
