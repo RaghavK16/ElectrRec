@@ -25,10 +25,18 @@ npm start
 
 Alternatively (less recommended):
 
+```
 npm install -g @electron-forge/cli
+```
+```
 electron-forge init my-new-app
+```
+```
 cd my-new-app
+```
+```
 npm start
+```
 
 ## Running the project
 
