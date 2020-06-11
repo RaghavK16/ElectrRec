@@ -1,8 +1,6 @@
 # ElectrRec
 
-<div align="center">
-![alt text](https://github.com/raghavk16/ElectrRec/blob/master/app_ss.png?raw=true)
-</div>
+![ElectrRec Image](https://github.com/raghavk16/ElectrRec/blob/master/app_ss.png?raw=true)
 
 A minimalistic and light-weight screen-recorder built on Electron using HTML, CSS and Vanilla JavaScript.
 
