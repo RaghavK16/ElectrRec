@@ -8,7 +8,7 @@ A minimalistic and light-weight screen-recorder built on Electron using HTML, CS
 
 Note: Electron Forge requires Node 10 or above, plus git installed.
 
-If you have a more recent version of npm or yarn, you can use npx, or yarn create.
+1. If you have a more recent version of npm or yarn, you can use npx, or yarn create.
 ```
 npx create-electron-app my-new-app
 ```
@@ -24,7 +24,7 @@ cd my-new-app
 npm start
 ```
 
-Alternatively (less recommended):
+2. Alternatively (less recommended):
 
 ```
 npm install -g @electron-forge/cli
