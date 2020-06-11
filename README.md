@@ -4,6 +4,8 @@
 
 A minimalistic and light-weight screen-recorder built on Electron using HTML, CSS and Vanilla JavaScript.
 
+![ElectrRec Image_1](https://github.com/raghavk16/ElectrRec/blob/master/app_ss_1.png?raw=true)
+
 ## Getting Started
 
 Note: Electron Forge requires Node 10 or above, plus git installed.
