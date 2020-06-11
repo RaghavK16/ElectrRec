@@ -1,6 +1,6 @@
 # ElectrRec
 
-A minimalistic and light-weight screen-recorder built on Electron
+A minimalistic and light-weight screen-recorder built on Electron using HTML, CSS and Vanilla JavaScript.
 
 ## Getting Started
 
