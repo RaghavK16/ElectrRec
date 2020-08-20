@@ -12,6 +12,10 @@
 
 ## Getting Started
 
+* Electron is a framework for creating native applications with web technologies like JavaScript, HTML, and CSS. 
+
+* It takes care of the hard parts so you can focus on the core of your application.
+
 Note: Electron Forge requires Node 10 or above, plus git installed.
 
 1. If you have a more recent version of npm or yarn, you can use npx, or yarn create.
