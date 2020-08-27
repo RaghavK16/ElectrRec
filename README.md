@@ -10,6 +10,8 @@
 
 * Stop the video using "Stop Recording" button.
 
+* The video gets saved in the Downloads folder.
+
 ## Getting Started
 
 * Electron is a framework for creating native applications with web technologies like JavaScript, HTML, and CSS. 
